@@ -3,3 +3,4 @@
 - logistics-classification
 - svm-classification
 - Naivbays-classification
+- Decesion Tree Classification
